@@ -11,4 +11,5 @@ bell
 pkg update
 pkg install cowsay
 cowsay Crashed..
+
 exit
