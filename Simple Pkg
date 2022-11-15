@@ -1,0 +1,14 @@
+pkg update 
+
+clear
+date
+cd /home
+pwd
+host
+ifconfig
+clear
+bell
+pkg update
+pkg install cowsay
+cowsay Crashed..
+exit
